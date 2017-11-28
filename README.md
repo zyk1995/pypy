@@ -1,2 +1,2 @@
-# pyxl
-疯装一些excel常用的操作
+# pypy
+《Python数据科学入门》一书的练习题
